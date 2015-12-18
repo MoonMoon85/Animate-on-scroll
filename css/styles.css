@@ -1,0 +1,15 @@
+.container {
+    margin-top: 200px;
+}
+.centerd {
+    text-align: center;
+}
+.row {
+    margin-bottom: 100px;
+}
+#animate1 {
+    transition: transform .8s ease-out;
+}
+.skew {
+    transform: scale(0.900)  skew(-30deg);
+}
